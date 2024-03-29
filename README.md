@@ -1,3 +1,12 @@
+# Currency Exchange app
+
+I had done the currency exchange application project using :
+* React + vite
+* Tailwind CSS
+
+deployed in:
+<https://github.com/KISHOREkevin/currency-exchange/>
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
