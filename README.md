@@ -5,7 +5,7 @@ I had done the currency exchange application project using :
 * Tailwind CSS
 
 deployed in:
-<https://github.com/KISHOREkevin/currency-exchange/>
+<https://prismatic-sunburst-87e1a9.netlify.app//>
 
 # React + Vite
 
